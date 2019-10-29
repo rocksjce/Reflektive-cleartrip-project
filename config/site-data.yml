@@ -1,0 +1,13 @@
+clear_trip:
+  site_url: https://www.cleartrip.com
+  user_name: rocksjce@gmail.com
+  password: Test@12345
+  source_name: Bangalore, IN - Kempegowda International Airport (BLR)
+  destination_name: New Delhi, IN - Indira Gandhi Airport (DEL)
+  depart_date: 24/10/2019
+  return_date: 25/10/2019
+  trip_type: Round trip
+  no_of_adults: 2
+  no_of_children: 1
+  mobile_no: 9909999990
+
